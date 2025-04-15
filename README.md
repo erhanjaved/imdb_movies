@@ -66,3 +66,5 @@ We used the [IMDb Dataset of Top 1000 Movies and TV Shows](https://www.kaggle.co
 ## Acknowledgments
 
 We would like to extend our sincere thanks to the professors and TAs of **COMM 335 – Information Systems Technology and Development** for their guidance, support, and constructive feedback throughout this project. Their insights played a key role in shaping our understanding of effective data visualization and dashboard development.
+
+> Dataset retrieved from https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows
