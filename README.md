@@ -25,7 +25,7 @@ The dashboard supports dynamic filtering and visual storytelling, helping users 
 
 ## Methodology
 
-We used the [IMDb Dataset of Top 1000 Movies and TV Shows](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows) from Kaggle. This dataset includes runtime, genres, cast, rating scores, and financial performance metrics.
+We used the [IMDB Movies Dataset](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows) from Kaggle. This dataset includes runtime, genres, cast, rating scores, and financial performance metrics.
 
 ### Preprocessing & Data Transformation
 
